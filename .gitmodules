@@ -1,3 +1,4 @@
 [submodule "gke-istio-shared"]
 	path = gke-istio-shared
-	url = https://github.com/GoogleCloudPlatform/gke-istio-shared.git
+	url = https://github.com/MrTrustor/gke-istio-shared.git
+	branch = fix-gce
